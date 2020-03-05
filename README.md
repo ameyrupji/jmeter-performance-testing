@@ -36,7 +36,8 @@ Follow the following steps to install plugins
 #### Recommended plugins to install are:
 
 - https://jmeter-plugins.org/?search=jpgc-graphs-
-- 
+- https://jmeter-plugins.org/wiki/PerfMon/ 
+  - Usage Guide: https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test/
 
 #### SSL Handshake Error
 
