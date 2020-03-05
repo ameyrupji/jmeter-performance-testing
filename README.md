@@ -6,6 +6,8 @@ This repo encapsulates the use of JMeter as a performance testing tool. The down
 
 ### Installation
 
+Install using brew using command: `brew install jmeter`
+
 ### Installing Plugins
 
 
