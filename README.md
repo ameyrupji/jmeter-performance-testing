@@ -23,8 +23,8 @@ If you are getting the SSL Handshake error as mentioned in this [link](https://j
 
 - Download the plugin and unzip it.
 - Copy the following files:
-  - `./lib/jmeter-plugins-cmn-jmeter-0.4.jar` to jmeter_ext directory located at `/usr/local/Cellar/jmeter/{version}/libexec/`. Replace the `{version}` with the version that you have installed on your system.
-  - `./lib/ext/jmeter-plugins-graphs-basic-2.0.jar` to jmeter_ext directory located at `/usr/local/Cellar/jmeter/{version}/libexec/ext/`. Replace the `{version}` with the version that you have installed on your system.
+  - `./lib/{plugin name}.jar` to jmeter_ext directory located at `/usr/local/Cellar/jmeter/{version}/libexec/`. Replace the `{version}` with the version that you have installed on your system.
+  - `./lib/ext/{plugin name}.jar` to jmeter_ext directory located at `/usr/local/Cellar/jmeter/{version}/libexec/ext/`. Replace the `{version}` with the version that you have installed on your system.
   
 #### Recommended plugins to install are:
 
