@@ -52,6 +52,10 @@ To create a JMeter test against localhost do the following:
 
 - Run test with command `jmeter -n -t ./src/localhost-load-test.jmx -l ./out/localhost-load-test-results.csv`
 
+### Addind properties files
+
+[TODO](https://gerardnico.com/jmeter/property_file)
+
 ### Generating HTML report
 
 To generate and test adding a HTML report do the following:
@@ -68,3 +72,6 @@ Use the following command to open existing test files: `jmeter -t ./src/localhos
 - Now graphs can be added to your JMeter tests by clicking on `Thread Group`. Then `Edit` > `Add` > `Listners` > Listner Name
 
 
+## Useful Links
+
+- Properties file: https://gerardnico.com/jmeter/property_file
